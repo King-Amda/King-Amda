@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lasindu2008
+- 👋 Hi, I’m lasindu senash
 - 👀 I’m interested in telegram 
 - 🌱 I’m currently learning telegram bots
 - 💞️ I’m looking to collaborate on ...
