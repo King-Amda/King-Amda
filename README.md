@@ -83,5 +83,5 @@ You can use the website to generate badges: https://shields.io/
  **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{King-Amda}/count.svg) 
                                                              
-                                                       <a href="https://github.com/MShawon/github-clone-count-badge"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=<url>?raw=True&logo=github"></a>
+ 
       
