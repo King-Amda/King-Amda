@@ -1,4 +1,4 @@
-# Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> I am King Amda<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
+# Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am King Amda<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">
 
 
 <img src="https://telegra.ph/file/c1a8ac4c85742553c84b0.jpg" style="max-width:100%;">
