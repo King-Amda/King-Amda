@@ -38,7 +38,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 <a href="h
 
-  <a href="https://github.com/King-Amda"><img alt="King Amda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lasindu2008&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/King-Amda"><img alt="King Amda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=King-Amda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
@@ -75,7 +75,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 | <a href="https://github.com/King-Amda"><img src="https://telegra.ph/file/66623ce5d08ec0323ce40.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **King Amda**
+|       **Dark Shark**
 
                                                              
                                                               
