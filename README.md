@@ -1,6 +1,6 @@
-# Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am Dark Shark...
+# Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am King Amda...
 
-<img src="https://telegra.ph/file/66623ce5d08ec0323ce40.jpg" style="max-width:100%;">
+<img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" style="max-width:100%;">
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 ### My Github Status
 
  <a href="https://github.com/King-Amda/handle-path-oz">
-    <img align="center" alt="Dark Sharks's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
+    <img align="center" alt="King Amda's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
   </a>
 
 <br>
@@ -73,9 +73,9 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-| <a href="https://github.com/King-Amda"><img src="https://telegra.ph/file/66623ce5d08ec0323ce40.jpg" width="150px" height="150px" /></a> |
+| <a href="https://github.com/King-Amda"><img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **Dark Shark**
+|       ** King Amda **
 
                                                              
                                                               
