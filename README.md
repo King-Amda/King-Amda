@@ -16,7 +16,7 @@ You can use the website to generate badges: https://shields.io/
 ### My Github Status
 
  <a href="https://github.com/King-Amda/handle-path-oz">
-    <img align="center" alt="King Amda's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
+    <img align="center" alt=" King Amda's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
   </a>
 
 <br>
