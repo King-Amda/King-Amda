@@ -67,6 +67,10 @@ You can use the website to generate badges: https://shields.io/
 
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=King-Amda&theme=dark&show_icons=true)
+                                                             
+# Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
 
 # CONTACT ME ON
 
