@@ -1,51 +1,37 @@
 # Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I am King Amda...
-
-<img src="https://telegra.ph/file/0ee669c1d3e0120424822.jpg" style="max-width:100%;">
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
--  🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰  <br>
--  👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black)  <br>
--  🤔 I’m looking for help : For  Me  <br>
--  💬 Ask me about : ![WebSite](https://img.shields.io/badge/Go%20to-Telegram-brightgreen) <br>
--  📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+<br>
 
 
-### My Github Status
+```css
+<div class="About">
+
+     Name = "King Amda"
+     Who I Am = 'Dev = Font-End'
+     Age = "14"
+     Country = "Sri Lanka"
+     Tag = '#KingAmda'
+     
+</div>
+     
+```
+<br>
+
+## My Github Status
 
  <a href="https://github.com/King-Amda/handle-path-oz">
     <img align="center" alt=" King Amda's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
   </a>
-
 <br>
 <br>
-
-- ![Profile views](https://gpvc.arturio.dev/King-Amda)
-- [![GitHub followers](https://img.shields.io/github/followers/King-Amda.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/King-Amda?tab=followers)
   
+## Thropy
+<p> <a href="https://github.com/King-Amda"><img src="https://github-profile-trophy.vercel.app/?username=King-Amda&no-bg=true" alt="King-Amda" /></a> </p>
 
-<p align="center"> <a href="https://github.com/King-Amda"><img src="https://github-profile-trophy.vercel.app/?username=King-Amda&no-bg=true" alt="King-Amda" /></a> </p>
-
-
-# Contribution Graph <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width=100px>
-
-<p align="center">
-  <a href="https://github.com/King-Amda">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Amda#version3"/>
-  </a>
-</p>
-<a href="h
-
-  <a href="https://github.com/King-Amda"><img alt="King Amda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=King-Amda&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<br><br>
 
 
 
-
-
-
-# MY TOOLS AND LANG
+## MY TOOLS AND LANG
 
 <p align ="left">
   <br />
@@ -63,16 +49,12 @@ You can use the website to generate badges: https://shields.io/
   <br>
 </p>  
 
-
-
-# MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=King-Amda&theme=dark&show_icons=true)
-                                                             
-# Now playing
+<br><br>                                                           
+## Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 
-# CONTACT ME ON
+## CONTACT ME ON
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
