@@ -16,7 +16,7 @@
 ```
 <br>
 
-## My Github Status
+## MY GITHUB STATS
 
  <a href="https://github.com/King-Amda/handle-path-oz">
     <img align="center" alt=" King Amda's github stats" src="https://github-readme-stats.vercel.app/api?username=King-Amda&show_icons=true&theme=midnight-purple" />
@@ -24,7 +24,7 @@
 <br>
 <br>
   
-## Thropy
+## THROPY
 <p> <a href="https://github.com/King-Amda"><img src="https://github-profile-trophy.vercel.app/?username=King-Amda&no-bg=true" alt="King-Amda" /></a> </p>
 
 <br><br>
@@ -45,11 +45,18 @@
 <a href="https://www.w3.org/html" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 
 <br><br>                                                           
-## Now playing
+## NOW PLAYING
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+     
+     <br><>br
 
+     
+## CONTACT ME
+     
+<p align="left">
+     <a href="https://github.com/King-Amda" target="_blank"><img src="4747499_github_icon.svg"/></a>
 
-## CONTACT ME ON
+## VISITORS COUNT
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
