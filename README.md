@@ -48,13 +48,9 @@
 ## NOW PLAYING
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
      
-     <br><>br
+
 
      
-## CONTACT ME
-     
-<p align="left">
-     <a href="https://github.com/King-Amda" target="_blank"><img src="4747499_github_icon.svg"/></a>
 
 ## VISITORS COUNT
 
